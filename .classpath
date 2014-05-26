@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="assignments/week-1-assignment-0/src"/>
+	<classpathentry kind="src" path="assignments/week-2-assignment-1/src"/>
+	<classpathentry kind="src" path="assignments/week-3-assignment-2/src"/>
+	<classpathentry kind="src" path="assignments/week-3-assignment-2/test"/>
+	<classpathentry kind="src" path="assignments/week-4-assignment-3/src"/>
+	<classpathentry kind="src" path="assignments/week-5-assignment-4/src"/>
+	<classpathentry kind="src" path="ex/BuggyQueue/src"/>
+	<classpathentry kind="src" path="ex/PingPong/console/src"/>
+	<classpathentry kind="src" path="ex/PingPong/wrong"/>
+	<classpathentry kind="src" path="ex/ThreadedDownload/src"/>
+	<classpathentry kind="src" path="grading-drivers/week-1-assignment-0/src"/>
+	<classpathentry kind="src" path="grading-drivers/week-2-assignment-1/src"/>
+	<classpathentry kind="lib" path="assignments/week-5-assignment-4/libs/android-support-v4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
